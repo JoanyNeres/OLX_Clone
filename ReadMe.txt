@@ -1,0 +1,1 @@
+O projeto trata-se de um exercício acadêmico do curso Degree Web Full Stack da escola Lets Code com o objetivo de criar um novo código explorando o layout e as funcionalidade da página https://www.olx.com.br/
